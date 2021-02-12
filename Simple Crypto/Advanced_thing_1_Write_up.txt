@@ -1,0 +1,4 @@
+Solution:
+1. Wrote and used script: advanced_thing_1.py
+2. Used decoder: https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html
+for the last 'print' in script (base64_decode)

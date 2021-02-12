@@ -1,0 +1,3 @@
+Solution:
+1. Wrote and used script: Basic_Crypto_4.py
+2. Added 'S' at the end of the flag.

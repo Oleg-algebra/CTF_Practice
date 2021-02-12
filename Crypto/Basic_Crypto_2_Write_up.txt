@@ -1,0 +1,6 @@
+Solution:
+1. Wrote script: Basic_Crypto_2.py для знаходження приватного ключа
+2. Visited site: https://www.dcode.fr/modular-exponentiation
+to find m: m=c^d (mod n)
+3. Used script Basic_Crypto_2.py for encode m from decimal to hexadecimal
+4. Used decoder: https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html

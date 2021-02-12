@@ -1,0 +1,2 @@
+Solution:
+1. Used extractor: https://stegonline.georgeom.net/upload --> "Extract Files/Data" --> Choose R0

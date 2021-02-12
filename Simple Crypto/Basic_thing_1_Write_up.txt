@@ -1,0 +1,2 @@
+Solution:
+1. Used hash decoder: https://www.dcode.fr/hash-function

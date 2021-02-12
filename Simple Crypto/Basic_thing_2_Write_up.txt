@@ -1,0 +1,2 @@
+Solution:
+1. Used base64 decoder: http://www.utilities-online.info/base64/#.YBb6negzbIV

@@ -1,0 +1,8 @@
+Solution:
+1. Used program "jadx" to find package com.application.test.e which realize task 3
+2. Used "Android Studio" to found srting "nnn"
+3. Used site: https://www.alpertron.com.ar/ECM.HTM for factorization of "nnn"
+4. Write and used script "Android.py" to find private key
+5. Used site: https://www.dcode.fr/modular-exponentiation to decrypt message
+6. Used site: https://www.rapidtables.com/convert/number/decimal-to-hex.html for converting decimal-->hexadecimal
+7. Used site: https://www.rapidtables.com/convert/number/hex-to-ascii.html for converting hexadecimal-->ascii

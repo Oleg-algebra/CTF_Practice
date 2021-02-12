@@ -1,0 +1,4 @@
+Solution:
+1. Wrote and used script: Basic_thing_3.py
+2. Used caesar decoder: https://www.dcode.fr/caesar-cipher
+to the string: "RirEl_YrggrE_U@F_0Ja_AhzO3E"

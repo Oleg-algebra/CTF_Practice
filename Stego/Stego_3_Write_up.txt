@@ -1,0 +1,3 @@
+Solution:
+1. Used site: http://exif.regex.info/exif.cgi
+2. Used program Steghide with parametrs: "--extract -sf image.jpg -p S@n_Fr@nc1sc0"

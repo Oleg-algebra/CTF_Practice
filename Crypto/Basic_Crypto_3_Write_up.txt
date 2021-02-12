@@ -1,0 +1,4 @@
+Solution:
+1. Used decoder: http://www.utilities-online.info/base64/#.YBLACugzbIU
+2. Used decoder: https://www.dcode.fr/monoalphabetic-substitution
+3. Used decoder: https://www.boxentriq.com/code-breaking/cryptogram

@@ -1,0 +1,10 @@
+Solution:
+1. Read article: https://idafchev.github.io/crypto/2017/04/13/crypto_part1.html#:~:text=Break%20the%20single-byte%20XOR,only%20256%20possible%20keys
+2. Use modified code from site above: 'Advanced_Crypto_v1.py', but it doesn't work
+3. Write similar script myself: 'Advanced_Crypto_v2.py', but get memory error from python
+
+Fortunately!!!
+4. I found site: https://wiremask.eu/tools/xor-cracker/
+where I download file: 'encrypted1.txt' and get flag))))
+
+XOR is very interesting!!!
